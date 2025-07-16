@@ -1,4 +1,5 @@
 **How I Effectively Used Dashboards as a Product- Data Analyst**
+
 As a Product Analyst, I used interactive dashboards to transform complex telecom customer data into clear, actionable insights. By leveraging tools like [mention your tool, e.g., Tableau, Power BI, or Python Dash], I was able to:
 
 Monitor key churn indicators such as monthly charges, contract types, and customer service interactions in real-time
