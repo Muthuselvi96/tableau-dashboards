@@ -2,6 +2,7 @@ Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic
 
 1.Amazon Product Reviews & Recommendation Dashboard
 2.Telecom Industry Customer Churn Analytics & Retention Dashboard
+
 **Tools & Technologies Used**
 
 MySQL Workbench	
