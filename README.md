@@ -13,7 +13,7 @@ PROJECT 1: **Amazon Product Reviews & Recommendation Dashboard**
 
 Project Overview
 
-In this project I analyzed over 50,000 Amazon customer reviews to uncover customer sentiment, product performance, review helpfulness and recommendation trends. The solution transforms raw review data into actionable business insights through interactive Tableau dashboards that support product teams, marketing teams and customer experience managers in making data-driven decisions.
+In this project I analyzed over 50,000 records of Amazon customer reviews to uncover customer sentiment, product performance, review helpfulness and recommendation trends. The solution transforms raw review data into actionable business insights through interactive Tableau dashboards that support product teams, marketing teams and customer experience managers in making data-driven decisions.
 
 **Business Problem** - Organizations receive thousands of customer reviews daily, making it difficult to:
 
