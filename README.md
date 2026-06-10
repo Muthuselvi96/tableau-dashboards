@@ -5,8 +5,8 @@ Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic
 
 **Tools & Technologies Used**
 
-MySQL Workbench	
-Excel (CSV Dataset	Source data)
+MySQL Workbench, 
+Excel (CSV Dataset	Source data), 
 Tableau Desktop (CSV Data Source from DBMS)
 
 PROJECT 1: **Amazon Product Reviews & Recommendation Dashboard**
